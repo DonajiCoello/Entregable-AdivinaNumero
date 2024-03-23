@@ -1,0 +1,28 @@
+*{
+    background-color: palevioletred;
+}
+
+.btn{
+    background-color: bisque;
+    color: black;
+    
+}
+
+.botones{
+    text-align: center;
+    margin: 10%;
+    color: black;
+}
+
+.title{
+    color: pink;
+   text-align: center;
+   
+ 
+}
+
+#numeroMostrado{
+    text-align: center;
+    margin: 10%;
+    font-size: 2.5rem;
+}
